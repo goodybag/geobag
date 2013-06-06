@@ -1,0 +1,28 @@
+{
+  "name": "geobag",
+  "version": "0.1.0",
+  "description": "Simple GEO location services wrapper for the browser",
+  "main": "index.js",
+  "jam": {
+    "main": "lib/geobag.js"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/goodybag/geobag.git"
+  },
+  "keywords": [
+    "Geo",
+    "Location",
+    "geo"
+  ],
+  "author": "John Fawcett",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "7398f966d62f8c0d201b6184e91a6cffe4f2fb94"
+}
