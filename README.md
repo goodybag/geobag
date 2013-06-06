@@ -1,4 +1,4 @@
-# GeoBag - Simple Geo Location Services Wrapper
+# GeoBag.js - Location Services Wrapper
 
 Usage:
 
